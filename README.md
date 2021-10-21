@@ -1,2 +1,9 @@
-# algorithms-in-js
-Computer science algorithms implemented in JavaScript
+# Algorithms in JS
+
+Computer science algorithms implemented in JavaScript.
+
+- kMeans
+- kNearestNeighbors
+- luhnCheck
+- indexOfSubstrings
+- bucketSort

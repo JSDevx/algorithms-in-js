@@ -7,3 +7,4 @@ Computer science algorithms implemented in JavaScript.
 - luhnCheck
 - indexOfSubstrings
 - bucketSort
+- euclideanDistance
